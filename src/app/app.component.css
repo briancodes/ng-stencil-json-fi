@@ -1,0 +1,4 @@
+/* override Shadow DOM CSS variable */
+:host {
+  --bc-preview-color: powderblue;
+}
